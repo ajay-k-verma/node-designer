@@ -1,2 +1,1 @@
-from .mpynode_obj import MPyNode, MPyNodeEventManager
-from .mpynode_obj_c import MPyNodeC
+from mpylib._mpynode.mpynode_obj import MPyNode, MPyNodeEventManager
